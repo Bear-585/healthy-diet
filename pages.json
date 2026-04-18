@@ -1,0 +1,360 @@
+{
+	"pages": [ {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/chat/chat",
+		"style": {
+			"navigationBarTitleText": "在线客服"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "系统公告详情"
+		}
+	}
+	,{
+		"path": "pages/consumer/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	},{
+		"path": "pages/consumer/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/consumer/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户"
+		}
+	}
+	,{
+		"path": "pages/foodCategory/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "食品分类"
+		}
+	},{
+		"path": "pages/foodCategory/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "食品分类"
+		}
+	}
+	,{
+		"path": "pages/foodCategory/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "食品分类"
+		}
+	}
+	,{
+		"path": "pages/foodRecipe/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱"
+		}
+	},{
+		"path": "pages/foodRecipe/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱"
+		}
+	}
+	,{
+		"path": "pages/foodRecipe/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱"
+		}
+	}
+	,{
+		"path": "pages/dietRecord/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	},{
+		"path": "pages/dietRecord/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	}
+	,{
+		"path": "pages/dietRecord/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "饮食记录"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "系统公告"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "系统公告"
+		}
+	}
+	, {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "交流论坛"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "交流论坛发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+	,{
+		"path": "pages/popupRemind/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	},{
+		"path": "pages/popupRemind/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	}
+	,{
+		"path": "pages/popupRemind/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "弹窗提醒"
+		}
+	}
+	,{
+		"path": "pages/storeUp/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	},{
+		"path": "pages/storeUp/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/storeUp/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "收藏表"
+		}
+	}
+	,{
+		"path": "pages/users/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "管理员"
+		}
+	},{
+		"path": "pages/users/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "管理员"
+		}
+	}
+	,{
+		"path": "pages/users/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "管理员"
+		}
+	}
+	,{
+		"path": "pages/foodRecipeComment/list",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱评论"
+		}
+	},{
+		"path": "pages/foodRecipeComment/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱评论"
+		}
+	}
+	,{
+		"path": "pages/foodRecipeComment/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食食谱评论"
+		}
+	}
+	,{
+		"path": "common/linkOthers/linkOthers",
+		"style": {
+			"navigationBarBackgroundColor": "#F49843",
+			"navigationBarTextStyle": "white"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "基于微信小程序的健康饮食软件设计",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#F49843",
+		"selectedColor": "#F45043",
+		"borderStyle": "white",
+		"backgroundColor": "#F8D8BB",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+			,{
+				"pagePath": "pages/foodRecipe/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "美食食谱"
+			}
+			,{
+				"pagePath": "pages/dietRecord/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "饮食记录"
+			}
+
+
+
+			,{
+				"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/forum.png",
+				"selectedIconPath": "static/tabs/forum_act.png",
+				"text": "交流论坛"
+			}
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
